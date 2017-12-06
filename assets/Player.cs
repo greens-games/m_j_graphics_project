@@ -11,8 +11,8 @@ public class Player : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		move_speed.x = 0.1f;
-		jump_speed.y = 0.1f;
+		move_speed.x = 0.2f;
+		jump_speed.y = 0.2f;
 	}
 
 	// Update is called once per frame
